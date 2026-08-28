@@ -1,0 +1,5 @@
+Metric,Value
+MAE,31.49
+RMSE,90.92
+R2,0.9506
+Accuracy_15pct,54.46

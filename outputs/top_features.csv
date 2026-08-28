@@ -1,0 +1,16 @@
+feature,importance
+osrm_distance,0.52334446
+osrm_time,0.24403271
+actual_distance_to_destination,0.10234186
+corridor_delay_ratio,0.04658103
+route_type,0.013281987
+network_risk_score,0.010180512
+corridor_trip_count,0.0066742226
+destination_in_degree,0.006411026
+destination_degree_centrality,0.006140682
+destination_betweenness_centrality,0.0059099295
+destination_out_degree,0.0053637987
+distance_per_hour,0.0044926084
+source_in_degree,0.004446389
+source_betweenness_centrality,0.0044389325
+trip_hour,0.00394393
